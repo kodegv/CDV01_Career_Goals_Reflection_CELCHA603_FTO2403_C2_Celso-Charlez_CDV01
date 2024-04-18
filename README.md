@@ -16,65 +16,91 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Celso Charlez
+- **Date:** 5 May 2024
+- **Current Role/Position:** Student
+- **Field of Interest:** Front-end Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Interpersonal Skills
+    - Teamwork
+    - Organization
+    - Communication Skills
+    - Adaptability
+    - Empathy
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - My key interests lie at the intersection of creativity, technology, and user experience. As a student of front-end development, I am passionate about crafting engaging and intuitive digital experiences that captivate users. I find immense satisfaction in translating design concepts into functional and visually appealing websites and applications.
+
+    - Exploring the latest trends and advancements in web development, including responsive design, interactive interfaces, and accessibility standards, fuels my curiosity and drives my learning journey. I am particularly drawn to the dynamic nature of front-end development, where innovation and problem-solving converge to create seamless user interactions across devices and platforms.
+
+    - *What values are important to you in a work environment?*
+
+        - Collaboration
+        - Respect
+        - Open Communication
+        - Professional Growth
+        - Work-Life Balance
+        - Recognition and Appreciation
+        - Diversity and Inclusion
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Front-end UI/UX Designer
+    - Junior Js Developer
+    - Web Developer
+    
+    I was particulary interested in the UI/UX Designer role.
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - I'm a creative and fun person at heart, so I feel that an angle that leans towards the creativity and creation of visual aspects in web development would suit me the best.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Complete CodeSpace course
+    - Do market research to compare my skills after every module
+    - Find a part-time job whilst studying design elements.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Find a stable job that I'm content with.
+    - A front-end development role with a focus on design would be ideal for my personal interests.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - I need to stay dedicated to CodeSpace and make sure that I put effort into every single project so that I know my limits and push myself to learn new things daily. 
+    - I'd be interested to learn additional tools (such as Figma) and other frameworks so that I am well-versed with front-end development tools.
+
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - I need to do market research to see what tools and knowledge I need for a relevent job that will keep my content.
+    - I need to make sure that I match the criteria needed for a long-term job as a front-end developer. 
+    - Design skills and tools will be necessary with my future plans, along with studying additional frameworks and libraries. 
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - I have certain health complications, which I need to overcome to reach my full potential.
+    - I need to remain focused and prioritise my studies and research.
+    - Creating daily, weekly and monthly plans will help keep me stable within my studies.
+
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - I already have design tools and knowledge to help boost my front-end development studies after CodeSpace. 
+    - I need to explore networking platforms so that I can connect with other individuals in the same field, and possible businesses that I'd be interested in working for. 
+    - I need to showcase my work with portfolios and completed projects.
 
 ### Submission
 
